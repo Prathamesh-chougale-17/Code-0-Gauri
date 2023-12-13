@@ -103,11 +103,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Code-0-Gauri&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" />
 </a>
 <p></p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-0-Gauri&layout=compact&theme=radical" />
-</a>
-<p></p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Code-0-Gauri&theme=cobalt)](https://github.com/Code-0-Gauri)
 
 </p>
 </div>
